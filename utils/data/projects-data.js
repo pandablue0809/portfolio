@@ -7,7 +7,7 @@ import bc2 from '/public/image/bc2.png';
 import travel from '/public/image/travel-app.gif';
 import clothes from '/public/image/clothes.png';
 import gamadant from '/public/image/gamadant.png';
-
+import NFT from '/public/image/NFT-Game-site.png';
 
 export const projectsData = [
     {
@@ -109,6 +109,17 @@ export const projectsData = [
         demo: 'https://gama-dental.vercel.app/',
         image: gamadant,
         tags:['NextJS', 'Tailwind CSS', "TypeScript"]
+    },
+    {
+        id: 10,
+        name: 'NFT Game App',
+        description: 'I have designed and developed a NFT Game Site. I designed and implemented RESTful APIs, enabling seamless data exchange between the frontend and backend components',
+        tools: ['NextJS', 'Web3.js', "Solidity"],
+        role: 'Fullstack & Blockchain Developer',
+        code: 'https://github.com/pandablue0809/',
+        demo: 'https://ridotto.io/casino/',
+        image: NFT,
+        tags: ['NextJS', 'Web3.js', "Solidity"]
     },
     
 ];
