@@ -1,5 +1,5 @@
 import ayla from '/public/image/ayla.jpg';
-import crefin from '/public/image/crefin.jpg';
+import crefin from '/public/image/landing-animation.gif';
 import realEstate from '/public/image/real-estate.jpg';
 import travel from '/public/image/travel.jpg';
 import bc1 from '/public/image/bc1.png';
@@ -8,14 +8,14 @@ import bc2 from '/public/image/bc2.png';
 export const projectsData = [
     {
         id: 1,
-        name: 'AI Powered Financial App',
-        description: "Me and my team built an AI-powered financial mobile application. I have developed API using Express, Typescript, OpenAI, AWS, and MongoDB. Used OTP via AWS SES, Google, and Facebook for the authentication system. Built AI assistants using OpenAI's latest model and trained using our dataset. Voice messages are converted to text using AWS Transcribe. The app fetches data from Google Sheets and generates a PDF term sheet, sent via AWS SES.",
-        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
+        name: 'AI Financial App',
+        description: "Me and my team built an A trading platform seamlessly integrating an AI-powered Chatbot designed to enhance trading experience within a simulated environment",
+        tools: ['yahoo-finance-api' ,'stock-market', 'prisma-client', 'supabase', 'chatgpt-api', 'shadcn-ui', 'nextjs14-typescript'],
         role: 'Backend Developer',
-        code: '',
-        demo: '',
+        code: 'https://github.com/pandablue0809/AI-Powered-Financial-App',
+        demo: 'https://dynamitetrade.vercel.app/',
         image: crefin,
-        tags:[]
+        tags:['next.js','chatgpt-api','prisma','shadcn-ui']
     },
     {
         id: 2,

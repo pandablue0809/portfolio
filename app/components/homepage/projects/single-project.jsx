@@ -39,11 +39,11 @@ const SingleProject = ({ project }) => {
         <h2 className='text-[#EFF3F4] not-italic font-semibold text-[1.525rem] leading-[110%] text-center capitalize'>
           {name}
         </h2>
-        <div className="p-6">
+        <div className="py-6">
           <Image
             src={image ? image?.src : placeholder}
             alt={name}
-            width={1080}
+            width={1000}
             height={720}
             className="w-80 h-64 transition-opacity duration-[0.7s] delay-[0.3s] rounded-lg group-hover:opacity-0"
           />
