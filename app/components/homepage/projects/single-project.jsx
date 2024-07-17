@@ -48,7 +48,7 @@ const SingleProject = ({ project }) => {
             className="w-80 h-64 transition-opacity duration-[0.7s] delay-[0.3s] rounded-lg group-hover:opacity-0"
           />
         </div>
-        <div className="flex items-center justify-between w-full">
+        <div className="relative z-[10] flex items-center justify-between w-full">
           <Link
             href={demo}
             target='_blank'
