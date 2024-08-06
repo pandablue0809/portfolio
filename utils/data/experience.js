@@ -1,13 +1,13 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Full stack & Blockchain developer',
+    title: 'Full stack & AI engineer',
     company: "Hashlogics",
     duration: "(Feb 2023 - June 2024)"
   },
   {
     id: 2,
-    title: "Blockchain developer",
+    title: "Full Stack developer",
     company: "LILLY021",
     duration: "(Sep 2020 - Dec 2022)"
   },

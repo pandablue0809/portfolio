@@ -1,8 +1,8 @@
 export const personalData = {
   name: "Pavle Milanovic",
   profile: '/profile.png',
-  designation: "Full Stack & Blockchain engineer",
-  description: "My name is Pavle Milanovic. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application and blockchain development and love to make the web more open to the world. My core skill is based on JavaScript Solidity and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  designation: "Full Stack engineer",
+  description: "My name is Pavle Milanovic. I'm a professional software developer with seven years of formal and informal experience, focusing on full-stack web application programming across multiple frameworks and architectures. I have a strong background in full-stack application development, including JavaScript, React, Next.js, Node.js, Vue, Python, and Django. My passion for AI extends to deep learning and computer vision. I am comfortable working in diverse teams, keeping up with field advancements, and discussing them with colleagues. I am creative and a problem solver who adapts quickly and efficiently, even under pressure.",
   email: 'bluep0415@gmail.com',
   phone: '+381 628081098',
   address: 'Dragice Zarkovic  51  Babusnica, SE 18330  Serbia ',
